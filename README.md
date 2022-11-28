@@ -1,6 +1,7 @@
 ### Ola! Eu sou o Marcos André
 
 - 🔭 Pleiteando uma vaga para desenvolvimento backend
+- 🎓 Graduando em Sistemas de Informação (3º Período)
 - 🌱 Estudando Java
 - 📫 Como me contactar: marcosdev2002@gmail.com
 - 😄 Pronomes: Ele/Dele
