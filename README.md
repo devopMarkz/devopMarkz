@@ -32,3 +32,5 @@
   <a href="https://www.linkedin.com/in/marcos-andr%C3%A9-costa-da-silva-51807625a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
+
+  <img src="https://raw.githubusercontent.com/devopMarkz/devopMarkz/output/snake.svg" alt="Snake animation"/>
