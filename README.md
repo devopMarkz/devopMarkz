@@ -1,4 +1,4 @@
-### Ola! Eu sou o Marcos André 
+### Ola! Eu sou o Marcos André
 
 - 🔭 Pleiteando uma vaga para desenvolvimento backend
 - 🎓 Graduando em Sistemas de Informação (6º Período)
