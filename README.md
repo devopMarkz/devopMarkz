@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/devopMarkz">
   <img height="180em" width= "480px" src="https://bad-apple-github-readme.vercel.app/api?username=devopMarkz&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
-  <img height="180em" width="480px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=devopMarkz&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
+  <img height="180em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=devopMarkz&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
 </div>
 
 <div style="display: inline_block"><br>
