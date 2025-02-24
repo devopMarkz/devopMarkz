@@ -3,7 +3,7 @@
 - 🔭 Pleiteando uma vaga para desenvolvimento backend
 - 🎓 Graduando em Sistemas de Informação (7º Período)
 - 🌱 Estudando Java, Spring, MySQL e PostgreSQL
-- 📫 Como me contactar: marcosdev2002@gmail.com
+- 📫 Como me contactar: marcosdev2002@gmail.com 
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
