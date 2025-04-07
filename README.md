@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Marcos André
 
-- 🔭 Pleiteando uma vaga para desenvolvimento backend
+- 🔭 Pleiteando uma vaga para desenvolvimento de software
 - 🎓 Graduando em Sistemas de Informação (7º Período)
 - 🌱 Estudando Java, Spring, PostgreSQL e Docker
 - 💡 Possuo conhecimentos básicos e vários projetos acadêmicos e profissionais em HTML, CSS, JS e PHP
