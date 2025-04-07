@@ -3,7 +3,7 @@
 - 🔭 Pleiteando uma vaga para desenvolvimento de software
 - 🎓 Graduando em Sistemas de Informação (7º Período)
 - 🌱 Estudando Java, Spring, PostgreSQL e Docker
-- 💡 Possuo conhecimentos básicos e vários projetos acadêmicos e profissionais em HTML, CSS, JS e PHP
+- 💡 Possuo conhecimentos e vários projetos acadêmicos e profissionais em HTML, CSS, JS e PHP
 - 📫 Como me contactar: marcosdev2002@gmail.com
 - 😄 Pronomes: Ele/Dele
 
