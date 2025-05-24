@@ -1,9 +1,9 @@
 ### Ola! Eu sou o Marcos André
 
 - 🔭 Pleiteando uma vaga para desenvolvimento de software
+- 💼 Estagiando como Backend Developer (Spring + PostgreSQL)
 - 🎓 Graduando em Sistemas de Informação (7º Período)
-- 🌱 Estudando Java, Spring, PostgreSQL, Docker e Vue.js 3
-- 💡 Possuo conhecimentos e vários projetos acadêmicos e profissionais em HTML, CSS, JS e PHP
+- 🌱 Estudando Java, Spring, PostgreSQL, Docker e RabbitMQ
 - 📫 Como me contactar: marcosdev2002@gmail.com
 - 😄 Pronomes: Ele/Dele
 
