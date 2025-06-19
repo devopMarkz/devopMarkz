@@ -22,7 +22,7 @@
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Marcos-JS" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
   <img align="center" alt="Marcos-Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
-  <img align="center" alt="Marcos-VueJs" height="35" width="40" src="https://devicon-website.vercel.app/api/vuejs/original.svg"/>
+  <img align="center" alt="Marcos-VueJs" height="35" width="40" src="https://devicon-website.vercel.app/api/vuejs/original-wordmark.svg"/>
   
           
 </div>
