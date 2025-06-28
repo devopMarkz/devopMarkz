@@ -1,38 +1,70 @@
-### Ola! Eu sou o Marcos André
+# Olá 👋, eu sou Marcos André
 
-- 🔭 Pleiteando uma vaga para desenvolvimento de software
-- 💼 Estagiando como Backend Developer (Spring + PostgreSQL)
-- 🎓 Graduando em Sistemas de Informação (7º Período)
-- 🌱 Estudando Java, Spring, PostgreSQL, Docker e RabbitMQ
-- 📫 Como me contactar: marcosdev2002@gmail.com
-- 😄 Pronomes: Ele/Dele
 
-<div align="center">
-  <a href="https://github.com/devopMarkz">
-  <img height="180em" width= "480px" src="https://bad-apple-github-readme.vercel.app/api?username=devopMarkz&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
-  <img height="180em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=devopMarkz&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Marcos-Spring" height="40" width="45" src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg"></img>
-  <img align="center" alt="Marcos-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" alt="Marcos-PostgreSQL" height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg"></img>
-  <img align="center" alt="Marcos-Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
-  <img align="center" alt="Marcos-JS" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-  <img align="center" alt="Marcos-VueJs" height="35" width="40" src="https://devicon-website.vercel.app/api/vuejs/original-wordmark.svg"/>
-  <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  
-          
-</div>
-  
-  ## 
 
-<div>
-  <a href="https://instagram.com/slva.markz?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcosdev2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-andr%C3%A9-costa-da-silva-51807625a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
+## 🚀 Sobre Mim
+Sou um **Desenvolvedor de Software** com experiência em **Backend** e **Frontend**, focado em criar soluções robustas e eficientes. Atualmente, estou impulsionando a inovação na Geosite, aplicando metodologias ágeis e as melhores práticas de desenvolvimento.
+
+- 🔭 Atualmente, estou trabalhando com **Vue 2** e **Java 8** na Geosite, utilizando metodologias ágeis como **Scrum** e **Sprints**.
+- 🌱 Estou aprofundando meus conhecimentos em **arquitetura de microsserviços**, com foco em OpenFeign, Load Balancer e Gateway API.
+- 👯 Busco colaborar em projetos inovadores que desafiem minhas habilidades e promovam o aprendizado contínuo.
+- 📫 Entre em contato comigo: **marcosdev2002@gmail.com**
+
+---
+
+
+
+## 🛠️ Habilidades e Ferramentas
+
+### Desenvolvimento Backend
+<kbd> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> </kbd>
+
+### Desenvolvimento Frontend
+<kbd> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </kbd>
+
+### Bancos de Dados
+<kbd> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> </kbd>
+
+### DevOps e Contêineres
+<kbd> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Jenkins-2C526F?style=for-the-badge&logo=jenkins&logoColor=white" /> </kbd>
+
+### Controle de Versão
+<kbd> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
+
+---
+
+
+
+## 📊 Minhas Estatísticas do GitHub
+
+### 📈 Estatísticas Gerais
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devopMarkz&show_icons=true&theme=dark&count_private=true)
+
+---
+
+### 📚 Linguagens Mais Usadas
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devopMarkz&layout=compact&theme=dark)
+
+---
+
+
+
+## 📫 Conecte-se Comigo
+<kbd> <a href="https://www.linkedin.com/in/marcos-andr%C3%A9-costa-da-silva-51807625a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </kbd>
+<kbd> <a href="mailto:marcosdev2002@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </kbd>
+
+
