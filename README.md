@@ -44,6 +44,8 @@ Sou um **Desenvolvedor Backend** com experiência em **Java** e **Spring**, foca
 ### Controle de Versão
 <kbd> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/GitLab-278964?style=for-the-badge&logo=gitlab&logoColor=white" /> </kbd>
+
 
 ---
 
