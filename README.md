@@ -7,7 +7,7 @@
 Sou um **Desenvolvedor Backend** com experiência em **Java** e **Spring**, focado em criar soluções robustas e eficientes. Possuo também conhecimento em tecnologias de frontend, o que me permite entregar soluções completas. Atualmente, estou impulsionando a inovação na Geosite, aplicando metodologias ágeis e as melhores práticas de desenvolvimento.
 
 - 🔭 Atualmente, estou trabalhando com **Vue 2** e **Java 8** na Geosite, desenvolvendo serviços de geolocalização, utilizando metodologias ágeis como **Scrum**.
-- 🌱 Estou aprofundando meus conhecimentos em **arquitetura de microsserviços**, com foco em OpenFeign, Load Balancer e Gateway API.
+- 🌱 Estou aprofundando meus conhecimentos em **arquitetura de microsserviços**, com foco em OpenFeign, Load Balancer, Gateway API e Resiliência.
 - 👯 Busco colaborar em projetos inovadores que desafiem minhas habilidades e promovam o aprendizado contínuo.
 - 📫 Entre em contato comigo: **marcosdev2002@gmail.com**
 
