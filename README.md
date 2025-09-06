@@ -29,7 +29,7 @@ public class MarcosAndre extends Developer {
         return new String[]{
             "Java 8+", "Spring Boot", "Spring Cloud", "JPA/Hibernate",
             "REST APIs", "JWT/OAuth2", "Microsserviços", "Docker", 
-            "Kubernetes", "TDD/JUnit/Mockito", "PostgreSQL", "Vue.js"
+            "Spring Security", "TDD/JUnit/Mockito", "PostgreSQL", "Vue.js"
         };
     }
     
