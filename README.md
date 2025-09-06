@@ -16,7 +16,7 @@
 
 ## 🎯 **Sobre Mim**
 
-\`\`\`java
+```java
 public class MarcosAndre extends Developer {
     
     private String currentRole = "Backend Developer";
@@ -36,7 +36,7 @@ public class MarcosAndre extends Developer {
         return "Desenvolvendo serviços de geolocalização com foco em arquitetura de microsserviços";
     }
 }
-\`\`\`
+```
 
 <details>
 <summary>📚 <strong>Formação Acadêmica</strong></summary>
