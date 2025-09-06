@@ -53,21 +53,21 @@ public class MarcosAndre extends Developer {
 
 <table align="center">
 <tr>
-<td width="50%" align="left">
+<td width="50vw" align="left">
 
 ### 🏢 **Geosite** - *Desenvolvedor Backend*
 - 🔭 Desenvolvimento com **Vue 2** e **Java 8**
 - 🗺️ Criação de **serviços de geolocalização**
-- ⚡ Aplicação de **metodologias ágeis**
+- ⚡ Aplicação de **metodologias ágeis (Scrum)**
 - 🏗️ Foco em **arquitetura de microsserviços**
 
 </td>
-<td width="50%" align="left">
+<td width="50vw" align="left">
 
 ### 🎯 **Objetivos Atuais**
-- 🛡️ **Resiliência** e **Circuit Breakers**
-- 📊 **Observabilidade** e **Monitoramento**
-- 📨 Especialização em **Messageria**
+- 🛡️ Aprofundamento em **Resiliência** e **Circuit Breakers**
+- 📊 Estudos em **Observabilidade** e **Monitoramento**
+- 📨 Especialização em **Messageria** (Kafka e RabbitMQ)
 - 🏗️ Evolução em **Arquitetura de Software**
 
 </td>
