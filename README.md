@@ -172,7 +172,7 @@ public class MarcosAndre extends Developer {
 
 <div align="center">
 
-\`\`\`mermaid
+```mermaid
 graph LR
     A[Desenvolvedor Backend] --> B[Arquiteto de Software]
     B --> C[Tech Lead]
@@ -181,7 +181,7 @@ graph LR
     A --> E[Especialização em Microsserviços]
     A --> F[Cloud Computing]
     A --> G[DevOps]
-\`\`\`
+```
 
 </div>
 
