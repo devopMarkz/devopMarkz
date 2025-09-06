@@ -176,11 +176,10 @@ public class MarcosAndre extends Developer {
 graph LR
     A[Desenvolvedor Backend] --> B[Arquiteto de Software]
     B --> C[Tech Lead]
-    C --> D[CTO]
     
-    A --> E[Especialização em Microsserviços]
-    A --> F[Cloud Computing]
-    A --> G[DevOps]
+    A --> D[Especialização em Microsserviços]
+    A --> E[Cloud Computing]
+    A --> F[DevOps]
 ```
 
 </div>
