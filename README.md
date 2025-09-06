@@ -58,7 +58,7 @@ public class MarcosAndre extends Developer {
 ### 🏢 **Geosite** - *Desenvolvedor Backend*
 - 🔭 Desenvolvimento com **Vue 2** e **Java 8**
 - 🗺️ Criação de **serviços de geolocalização**
-- ⚡ Aplicação de **metodologias ágeis (Scrum)**
+- ⚡ Aplicação de **metodologias ágeis**
 - 🏗️ Foco em **arquitetura de microsserviços**
 
 </td>
