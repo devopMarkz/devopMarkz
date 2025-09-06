@@ -19,21 +19,22 @@
 ```java
 public class MarcosAndre extends Developer {
     
-    private String currentRole = "Java Backend Developer";
-    private String company = "Geosite Tecnologia";
+    private String currentRole = "Backend Developer";
+    private String company = "Geosite";
     private String education = "Sistemas de Informação - 7º Período";
-    private String[] currentFocus = {"Microsserviços", "Spring Cloud", "Mensageria"};
+    private String[] currentFocus = {"Microsserviços", "Spring Cloud", "Vue.js"};
     private String methodology = "Scrum";
     
     public String[] getSkills() {
         return new String[]{
-            "Java 8+", "Spring Framework", "Vue.js", 
-            "PostgreSQL", "Docker", "Apache Kafka"
+            "Java 8+", "Spring Boot", "Spring Cloud", "JPA/Hibernate",
+            "REST APIs", "JWT/OAuth2", "Microsserviços", "Docker", 
+            "Kubernetes", "TDD/JUnit/Mockito", "PostgreSQL", "Vue.js"
         };
     }
     
     public String getCurrentProject() {
-        return "Desenvolvendo serviços de geolocalização com foco em arquitetura monolítica";
+        return "Desenvolvendo serviços de geolocalização com foco em arquitetura de microsserviços";
     }
 }
 ```
