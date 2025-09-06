@@ -33,7 +33,7 @@ public class MarcosAndre extends Developer {
     }
     
     public String getCurrentProject() {
-        return "Desenvolvendo serviços de geolocalização com foco em arquitetura de microsserviços";
+        return "Desenvolvendo serviços de geolocalização com foco em arquitetura monolítica";
     }
 }
 ```
