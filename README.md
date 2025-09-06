@@ -160,8 +160,11 @@ public class MarcosAndre extends Developer {
 <summary>📜 <strong>Certificações Obtidas</strong></summary>
 
 - ☕ **Java COMPLETO - Programação Orientada a Objetos + Projetos** *(54.5 horas - Concluído)*
+- ☕ **SOLID com JAVA: Princípios da Programação Orientada a Objetos** *(8 horas - Concluído)*
 - 🍃 **Java Spring Professional** *(120 horas - Concluído)*
 - 🐳 **Spring BootExpert: JPA, REST, JWT, OAuth2 com Docker e AWS** *(52 horas - Concluído)*
+- ☕ **Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito** *(17h - Concluído)*
+- ☕ **Microsserviços 2025 c. Spring Cloud Boot Kubernetes e Docker** *(43.5h - Concluído)*
 - 🍃 **Especialista JPA** *(32 horas - Em andamento)*
 - 📊 **Especialista em Microsserviços - AlgaWorks** - *(+70 horas - Em andamento)*
 
