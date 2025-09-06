@@ -65,9 +65,9 @@ public class MarcosAndre extends Developer {
 <td width="50%" align="left">
 
 ### 🎯 **Objetivos Atuais**
-- 🛡️ Aprofundamento em **Resiliência** e **Circuit Breakers**
-- 📊 Estudos em **Observabilidade** e **Monitoramento**
-- 📨 Especialização em **Messageria** (Kafka e RabbitMQ)
+- 🛡️ **Resiliência** e **Circuit Breakers**
+- 📊 **Observabilidade** e **Monitoramento**
+- 📨 Especialização em **Messageria**
 - 🏗️ Evolução em **Arquitetura de Software**
 
 </td>
