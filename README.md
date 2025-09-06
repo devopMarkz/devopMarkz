@@ -53,7 +53,7 @@ public class MarcosAndre extends Developer {
 
 <table align="center">
 <tr>
-<td width="500px" align="left">
+<td width="450px" align="left">
 
 ### 🏢 **Geosite** - *Desenvolvedor Backend*
 - 🔭 Desenvolvimento com **Vue 2** e **Java 8**
@@ -62,7 +62,7 @@ public class MarcosAndre extends Developer {
 - 🏗️ Foco em **arquitetura de microsserviços**
 
 </td>
-<td width="500px" align="left">
+<td width="450px" align="left">
 
 ### 🎯 **Objetivos Atuais**
 - 🛡️ Aprofundamento em **Resiliência** e **Circuit Breakers**
