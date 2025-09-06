@@ -62,7 +62,7 @@ public class MarcosAndre extends Developer {
 - 🏗️ Foco em **arquitetura de microsserviços**
 
 </td>
-<td width="55%" align="left">
+<td width="50%" align="left">
 
 ### 🎯 **Objetivos Atuais**
 - 🛡️ Aprofundamento em **Resiliência** e **Circuit Breakers**
