@@ -19,16 +19,16 @@
 ```java
 public class MarcosAndre extends Developer {
     
-    private String currentRole = "Backend Developer";
-    private String company = "Geosite";
+    private String currentRole = "Java Backend Developer";
+    private String company = "Geosite Tecnologia";
     private String education = "Sistemas de Informação - 7º Período";
-    private String[] currentFocus = {"Microsserviços", "Spring Cloud", "Vue.js"};
+    private String[] currentFocus = {"Microsserviços", "Spring Cloud", "Mensageria"};
     private String methodology = "Scrum";
     
     public String[] getSkills() {
         return new String[]{
             "Java 8+", "Spring Framework", "Vue.js", 
-            "PostgreSQL", "Docker", "RabbitMQ"
+            "PostgreSQL", "Docker", "Apache Kafka"
         };
     }
     
@@ -43,7 +43,7 @@ public class MarcosAndre extends Developer {
 
 - 🎓 **Bacharelado em Sistemas de Informação** - 7º Período
 - 📖 Focado em **Engenharia de Software**, **Arquitetura de Sistemas** e **Desenvolvimento Web**
-- 🔬 Projetos acadêmicos envolvendo **desenvolvimento full-stack** e **metodologias ágeis**
+- 🔬 Projetos acadêmicos e profissionais envolvendo **desenvolvimento full-stack** e **metodologias ágeis**
 
 </details>
 
@@ -162,6 +162,7 @@ public class MarcosAndre extends Developer {
 - ☕ **Java COMPLETO - Programação Orientada a Objetos + Projetos** *(54.5 horas - Concluído)*
 - 🍃 **Java Spring Professional** *(120 horas - Concluído)*
 - 🐳 **Spring BootExpert: JPA, REST, JWT, OAuth2 com Docker e AWS** *(52 horas - Concluído)*
+- 🍃 **Especialista JPA** *(32 horas - Em andamento)*
 - 📊 **Especialista em Microsserviços - AlgaWorks** - *(+70 horas - Em andamento)*
 
 </details>
