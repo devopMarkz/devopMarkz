@@ -78,7 +78,7 @@ public class MarcosAndre extends Developer {
 - 🔭 Desenvolvimento com **Vue 2** e **Java 8**
 - 🗺️ Criação de **serviços de geolocalização**
 - ⚡ Aplicação de **metodologias ágeis (Scrum)**
-- 🏗️ Foco em **arquitetura de microsserviços**
+- 🏗️ Foco em **arquitetura monolítica**
 
 </td>
 <td width="450px" align="left">
