@@ -53,7 +53,7 @@ public class MarcosAndre extends Developer {
 ## 🎓 **Certificações & Cursos**
 
 <details>
-<summary>📜 <strong>Certificações Obtidas</strong></summary>
+<summary>📜 <strong>Cursos realizados</strong></summary>
 
 - ☕ **Java COMPLETO - Programação Orientada a Objetos + Projetos** *(54.5 horas - Concluído)*
 - ☕ **SOLID com JAVA: Princípios da Programação Orientada a Objetos** *(8 horas - Concluído)*
