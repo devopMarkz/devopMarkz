@@ -22,7 +22,7 @@ public class MarcosAndre extends Developer {
     private String currentRole = "Backend Developer";
     private String company = "Geosite Tecnologia";
     private String education = "Sistemas de Informação - 7º Período";
-    private String[] currentFocus = {"Microsserviços", "Spring Cloud", "Vue.js"};
+    private String[] currentFocus = {"Microsserviços", "Spring Cloud", "Mensageria"};
     private String methodology = "Scrum";
     
     public String[] getSkills() {
