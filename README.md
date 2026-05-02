@@ -21,7 +21,7 @@ public class MarcosAndre extends Developer {
     
     private String currentRole = "Backend Developer";
     private String company = "Geosite Tecnologia";
-    private String education = "Sistemas de Informação - 8º Período";
+    private String[] education = {"Bacharel em Sistemas de Informação", "Pós graduando em Arquitetura de Software Distribuído (PUC Minas)"};
     private String[] currentFocus = {"Microsserviços", "Spring Cloud", "Mensageria"};
     private String methodology = "Scrum";
     
