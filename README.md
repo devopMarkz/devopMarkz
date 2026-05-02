@@ -42,7 +42,8 @@ public class MarcosAndre extends Developer {
 <details>
 <summary>📚 <strong>Formação Acadêmica</strong></summary>
 
-- 🎓 **Bacharelado em Sistemas de Informação** - 7º Período
+- 🎓 **Bacharelado em Sistemas de Informação** - Concluído
+- 🎓 **Pós Graduação (Lato Sensu) em Arquitetura de Software Distribuído** - Em andamento
 - 📖 Focado em **Engenharia de Software**, **Arquitetura de Sistemas** e **Desenvolvimento Web**
 - 🔬 Projetos acadêmicos e profissionais envolvendo **desenvolvimento full-stack** e **metodologias ágeis**
 
@@ -61,8 +62,8 @@ public class MarcosAndre extends Developer {
 - 🐳 **Spring BootExpert: JPA, REST, JWT, OAuth2 com Docker e AWS** *(52 horas - Concluído)*
 - ☕ **Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito** *(17h - Concluído)*
 - ☕ **Microsserviços 2025 c. Spring Cloud Boot Kubernetes e Docker** *(43.5h - Concluído)*
-- 🍃 **Especialista JPA** *(32 horas - Em andamento)*
-- 📊 **Especialista em Microsserviços - AlgaWorks** - *(+70 horas - Em andamento)*
+- 🍃 **Especialista JPA** *(32 horas - Concluído)*
+- 📊 **Especialista em Microsserviços - AlgaWorks** - *(+100 horas - Concluído)*
 
 </details>
 
@@ -75,7 +76,7 @@ public class MarcosAndre extends Developer {
 <td width="450px" align="left">
 
 ### 🏢 **Geosite** - *Desenvolvedor Backend*
-- 🔭 Desenvolvimento com **Vue 2** e **Java 8**
+- 🔭 Desenvolvimento com **Vue 2**, **jQuery** e **Java 8**
 - 🗺️ Criação de **serviços de geolocalização**
 - ⚡ Aplicação de **metodologias ágeis (Scrum)**
 - 🏗️ Foco em **arquitetura monolítica**
